@@ -10,9 +10,9 @@ Welcome to Attendance Management System - sulthan's documentation!
    :maxdepth: 2
    :numbered:
    
-   Chapter1.md
-   Chapter2.md
-   Chapter3.md
+   Chapter-1.md
+   Chapter-2.md
+   Chapter-3.md
 
 
 
